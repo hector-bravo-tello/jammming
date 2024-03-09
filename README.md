@@ -18,6 +18,7 @@ The goal of Jammming is to simplify the process of creating playlists on Spotify
 
 - **Song Search**: Users can search for songs by title, artist, or album.
 - **Playlist Creation**: Users can save a custom playlist by adding songs from the search results.
+- **Song Preview**: Users can listen the song preview in search results
 
 ## Future Work
 
