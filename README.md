@@ -1,6 +1,6 @@
 # Jammming
 
-# Author: Hector Bravo
+Author: Hector Bravo
 
 Jammming is a React web application that allows users to search the Spotify library, create a custom playlist, and then save it to their Spotify account. It leverages the Spotify API for searching music and managing playlists, providing an intuitive interface for music lovers to craft their perfect listening experience.
 
