@@ -42,8 +42,9 @@ npm install
 npm start
 
 
-Your app should now be running on [http://localhost:3000](http://localhost:3000). 
-Ensure you have created a Spotify Developer account and obtained your API credentials to interact with Spotify's services.
+Your app should now be running on [http://localhost:3000](http://localhost:3000).
+
+**Ensure you have created a Spotify Developer account and obtained your API credentials to interact with Spotify's services.**
 
 ## Contributing
 
