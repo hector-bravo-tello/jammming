@@ -16,6 +16,12 @@ function Track({ track, onAdd, onRemove, isRemoval }) {
       <div className={styles.trackInformation}>
         <h3>{track.name}</h3>
         <p>{track.artist} | {track.album}</p>
+        {console.log(track)}
+        {track.previewUrl && (
+          <audio controls src={track.previewUrl}>
+            Your browser does not support the audio element.
+          </audio>
+        )}
       </div>
       {
         isRemoval ?

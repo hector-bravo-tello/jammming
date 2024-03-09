@@ -23,7 +23,6 @@ The goal of Jammming is to simplify the process of creating playlists on Spotify
 
 - **User Authentication**: Implement a more robust authentication flow to enhance security.
 - **Additional Search Filters**: Introduce more search filters like genre or mood for refined results.
-- **Live Song Previews**: Integrate live song previews within the search results.
 
 ## Getting Started
 
