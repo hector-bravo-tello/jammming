@@ -1,0 +1,20 @@
+/* SearchResults.module.css */
+.searchResults {
+    text-align: left;
+    width: 45%;
+    margin: 0 2.5%;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.1);
+  }
+  
+  .resultsTitle {
+    color: #333;
+  }
+  
+  /* Responsiveness */
+  @media (max-width: 768px) {
+    .searchResults {
+      width: 90%;
+    }
+  }

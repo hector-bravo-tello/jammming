@@ -1,0 +1,39 @@
+/* Playlist.module.css */
+.playlist {
+  text-align: left;
+  width: 45%;
+  margin: 0 2.5%;
+  background-color: #fff;
+  padding: 20px;
+  box-shadow: 0 0 10px 0 rgba(0,0,0,0.1);
+}
+
+.input {
+  width: 97%;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.saveButton {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #1db954;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.saveButton:hover {
+  background-color: #1ed760;
+}
+
+  
+  /* Responsiveness */
+  @media (max-width: 768px) {
+    .playlist {
+      margin-top: 30px;
+      width: 90%;
+    }
+  }
+  

@@ -1,0 +1,37 @@
+.app {
+  text-align: center;
+}
+
+.header {
+  display: flex;
+  align-items: center; /* This ensures the logo and title are aligned on their centerline */
+  justify-content: center; /* Aligns items to the start of the container */
+}
+
+.logo {
+  width: 50px; /* Adjust based on the size of your logo */
+  height: 50px; /* Adjust based on the size of your logo */
+  margin-right: 20px; /* Gives some space between the logo and the title */
+}
+
+.title {
+  font-size: 48px;
+  color: #333;
+}
+
+.highlight {
+  color: #1DB954;
+}
+
+.appPlaylist {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+}
+
+@media (max-width: 768px) {
+  .appPlaylist {
+    flex-direction: column;
+    align-items: center;
+  }
+}
